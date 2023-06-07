@@ -4,7 +4,7 @@
 
 简易版 `ChatGPT` 网站，拿来即用，适合小白，让你十分钟搭建属于自己的 `ChatGPT` 问答机器人！
 本项目是`ChatGPT-website`的镜像地址，只用于使用`render` 部署！
-其他部署方式请访问原仓库：https://gitee.com/aniu-666/chat-gpt-website
+其他部署方式请访问原仓库：https://gitee.com/aeniu-666/chat-gpt-websit
 
 ## 使用说明
 
